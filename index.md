@@ -61,7 +61,7 @@
     <br>
     <hr>
     <!-- Hyperlink Tag -->
-    <a href="page2.html">Let's go to Page 2 now</a>
+    <a href="page2.md">Let's go to Page 2 now</a>
 
   </body>
 </html>
