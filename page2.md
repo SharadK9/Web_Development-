@@ -60,6 +60,6 @@
 </audio>
 <br>
 <hr>
-<a href="page3.html">Moving to Page 3 now</a>
+<a href="page3.md">Moving to Page 3 now</a>
   </body>
 </html>
