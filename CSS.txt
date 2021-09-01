@@ -1,0 +1,13 @@
+p {
+       border: solid 2px red;
+       background-image: linear-gradient(to left, red, green);
+      }
+    h1 {
+        background-image: radial-gradient(red, yellow, green);
+       }
+    h2 {
+        background-image: repeating-radial-gradient(grey, cyan 10%, magenta 15%);
+       }
+    h3 {
+        background-image: radial-gradient(farthest-side at 60% 55%, white, magenta, cyan);
+       }
